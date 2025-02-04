@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an issue where the `expo prebuild` command consistently failed with a cryptic error message, even after ensuring all dependencies were correctly installed and configured. The error message itself was unhelpful, offering no insight into the root cause. This issue impeded the building and deployment process.
